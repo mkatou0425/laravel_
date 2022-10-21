@@ -12,11 +12,14 @@
 
                 <!-- Navigation Links -->
                 <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
-                    <x-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')">
-                        {{ __('Dashboard') }}
+                    <!-- <x-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')">
+                        {{ __('新規登録') }}
+                    </x-nav-link> -->
+                    <x-nav-link :href="route('contacts.create')" :active="request()->routeIs('contacts.create')">
+                        お問い合わせ
                     </x-nav-link>
                     <x-nav-link :href="route('contacts.index')" :active="request()->routeIs('contacts.index')">
-                        Work(お問い合わせ一覧)
+                        お問い合わせ一覧
                     </x-nav-link>
                 </div>
             </div>
