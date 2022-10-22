@@ -20,7 +20,7 @@ class ContactFormController extends Controller
         // $contacts = Contactform::select('id', 'name', 'title', 'created_at')
         // ->get();
 
-        //ペジネーション対応
+        //ページネーション対応
         // $contacts = Contactform::select('id', 'name', 'title', 'created_at')
         // ->paginate(20);
 
