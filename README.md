@@ -7,7 +7,10 @@
  <img width="1128" alt="image" src="https://user-images.githubusercontent.com/115052012/197373611-f1f47b08-1da2-482f-80c9-fb549a2a5f9c.png"><br><br>
 
  ## お問い合わせ新規登録画面<br>
- <img width="350" height="700" src= "https://user-images.githubusercontent.com/115052012/197336721-23806452-f034-4b56-b66f-2dedf19765a6.png">
+ <img width="1128" alt="image" src="https://user-images.githubusercontent.com/115052012/197466107-a8f5d9ce-511b-41ee-b022-5da2b4e4dff6.png"><br><br>
+ 
+  ## お問い合わせ詳細画面<br>
+ <img width="350" height="700" src= "https://user-images.githubusercontent.com/115052012/197466486-3b195f92-b5af-46cb-aaad-ff1ca2764538.png">
  
  <br>
 
